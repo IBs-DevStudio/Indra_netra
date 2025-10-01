@@ -173,8 +173,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
-**Project Link:** [https://github.com/yourusername/indra-netra](https://github.com/yourusername/indra-netra)  
-**Email:** your.email@example.com
+**Project Link:** https://github.com/IBs-DevStudio/Indra_netra.git  
+**Email:** ikrambanadar007@gmail.com
 
 ---
 
@@ -182,7 +182,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ### ⭐ Star this repo if you find it useful!
 
-**Made with ❤️ for India 🇮🇳**
+**Made by Ikram.B with ❤️ for India 🇮🇳**
 
 *Dedicated to the Indian Armed Forces*
 
